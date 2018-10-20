@@ -1,0 +1,67 @@
+/* add your CSS here */
+.card {
+  border-style: solid;
+  height: 519px;
+  width: 350px;
+  border-radius: 10px;
+  padding: 15px;
+  background-image: url("backgroundImage.jpeg"); /* CC0 License, image from https://www.pexels.com/photo/animals-birds-dawn-giraffe-417142/ */
+  position: relative;
+}
+
+.secondLayer {
+  border: solid;
+  height: 500px;
+  padding: 2px;
+  border-radius: 5px;
+  background-color: #FF7F50;
+  opacity: 0.9;
+}
+
+h3 {
+  border-style: solid;
+  font-family: arial;
+  border-radius: 5px;
+  background-color: #D2B48C;
+  text-align: center;
+}
+
+.cheetahImage {
+  border-radius: 5px;
+  width:350px;
+  opacity: 1;
+  padding:5px;
+  margin-left: 15px;
+  margin-right: auto;
+  display: block;
+  position: relative;
+}
+
+.listfacts {
+  width: auto;
+  background-color: #e9967a;
+  border-style: solid;
+  border-width: medium;
+  border-radius: 10px;
+  padding: 2px;
+  position: relative;
+
+}
+
+.interesting-facts {
+  font-style: italic;
+
+}
+.list {
+  list-style-type: none;
+}
+span {
+  font-weight: bold;
+}
+
+/* div { */
+/* height: 200px; */
+    /* width: 350px; */
+    /* padding: 5px; */
+    /* position: relative; */
+  /* } */
